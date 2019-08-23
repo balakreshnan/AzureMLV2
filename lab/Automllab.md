@@ -137,6 +137,24 @@ Click Start and allow the other values default for now.
 
 ### Deploy the best model
 
+- Now it is time to deploy best model
+- Click Deploy Model and follow the step and Model gets deployment as docker container in ACI cluster.
+- In the deployment section of workspace you should see the details.
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image109.png "AML Service")
+
 ### Consume the best model
 
+- Use post man or Rest client to test the API deployed in ACI.
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image139.png "AML Service")
+
+- Get the details from deployment section and use that in post man to test the API
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image143.png "AML Service")
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image145.png "AML Service")
+
 ### Delete all resources
+
+- Delete the complete resoruce group which will delete all the resource we created for the lab.
