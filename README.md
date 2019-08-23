@@ -75,3 +75,4 @@ Look at the data and see how to move forward. A data set has features and not al
 
 ## Lab Starts here.
 
+https://github.com/balakreshnan/AzureMLV2/blob/master/lab/Automllab.md
