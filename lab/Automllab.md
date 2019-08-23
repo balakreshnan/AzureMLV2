@@ -104,8 +104,36 @@ Create a resource Group: name it: AMLv2Lab
 
 ![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image049.png "AML Service")
 
+- Make sure all the module are there as wpe below image.
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image073.png "AML Service")
+
+- Now it is time to Run the model.
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image049.png "AML Service")
+
+- below is the image where the option to run the model.
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image085.png "AML Service")
+
+- Select the compute target as compute. Usually it takes 5 - 10 minutes depending on the nodes in compute target.
 
 ### Create Automated machine learning for Model
+
+- now it is time to create a New Experiment for automated machine learning
+- Now the left menu in AML workspace Click Automated Machine learning
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image095.png "AML Service")
+
+> Select the Experiment created before. Then select the compute target. Next upload the data set in default blob location shown in the workspace. On the prediction Task select regression. on the Target column select consumption.
+Click Start and allow the other values default for now.
+
+- This steps takes  a longer time to complete the model.
+- Once the model is complete here is what you should see the chart with individual alogrithmn performance and also the tablular list of alogrithm that you can download as pickle file.
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image103.png "AML Service")
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image105.png "AML Service")
 
 ### Deploy the best model
 
