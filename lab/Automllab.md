@@ -74,7 +74,19 @@ Create a resource Group: name it: AMLv2Lab
 
 ## Now it is time to start the Lab
 
-> Now that the resources are created for the lab it is time to start creating experiment and run through automated Machine learning to find best model and then deploy and consume. This would cover the entire Data science life cycle process. The entire data science life cycle process will covered in azure machine learning service workspace. 
+> Now that the resources are created for the lab it is time to start creating experiment and run through automated Machine learning to find best model and then deploy and consume. This would cover the entire Data science life cycle process. The entire data science life cycle process will covered in azure machine learning service workspace.
+
+
+### Upload the Dataset
+
+- Click on New on bottom left and select data set and upload the dataset csv file. file name: mlsample1.csv
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image041.png "AML Service")
+
+- Click New experiment. Before that you can also upload the data set
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image039.png "AML Service")
+
 
 ### Creae a new Experiment
 
@@ -86,17 +98,12 @@ Create a resource Group: name it: AMLv2Lab
 
 ![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image033.png "AML Service")
 
-- Click on New on bottom left and select data set and upload the dataset csv file. file name: mlsample1.csv
-
-![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image041.png "AML Service")
-
-- Click New experiment. Before that you can also upload the data set
-
-![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image039.png "AML Service")
-
-### Upload the Dataset
-
 ### Build Model
+
+- Now it is time to build a model using visual interface. Drag and drop the mlsample1.csv data set. Bring in Split data, Model to train, Train module, Score module and evaluate Module.
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image049.png "AML Service")
+
 
 ### Create Automated machine learning for Model
 
