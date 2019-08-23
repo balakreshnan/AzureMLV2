@@ -11,3 +11,14 @@ Create a resource Group: name it: AMLv2Lab
 ### Azure Machine learning service
 
 - Go into the resource group
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image003.png "Resoruce Group")
+
+- Click Add to create a new resource for Azure Machine Learning Service
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image005.png "AML Service")
+
+- Select Machine Learning Service Workspace and then click Create
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/lab/images/image009.png "AML Service")
+
