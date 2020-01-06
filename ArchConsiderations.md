@@ -52,7 +52,7 @@ Major changes:
 1) Development needs lots of production data - large volume
     Here is where th emajor change is.
 2) Development needs lots of compute to process the data for Modelling
-    Here is another major change than before since in software application development usually the environment or the infrastructure is more less and sharable. Here is becomes harder with larger volume of data and time it takes to process. So don't be surprised based on use case and data scientists needs computation is going to differ. This is the reason why PaaS on demand helps a lots as and when developer need compute they can spun up and down the computation. Model building is iterative process and finding the right alogorith or neual architecture takes time by trial and error.
+    Here is another major change than before since in software application development usually the environment or the infrastructure is more less and sharable. Here is becomes harder with larger volume of data and time it takes to process. So don't be surprised based on use case and data scientists needs computation is going to differ. This is the reason why PaaS on demand helps a lots as and when developer need compute they can spun up and down the computation. Model building is iterative process and finding the right algorithm or neural architecture takes time by trial and error.
 3) Time line for building the model can vary based on data volume.
 4) Time line increases on figuring data sources and compiling data sources for use case.
 
