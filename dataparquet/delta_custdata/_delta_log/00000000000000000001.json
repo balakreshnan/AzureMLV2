@@ -1,0 +1,2 @@
+{"commitInfo":{"timestamp":1582731574707,"userId":"7784911264274441","userName":"babal@microsoft.com","operation":"STREAMING UPDATE","operationParameters":{"outputMode":"Append","queryId":"720e48a8-0d53-4106-8ceb-90d00f91d4f1","epochId":"0"},"notebook":{"notebookId":"2230135565232839"},"clusterId":"1205-140903-isles770","readVersion":0,"isolationLevel":"SnapshotIsolation","isBlindAppend":true}}
+{"txn":{"appId":"720e48a8-0d53-4106-8ceb-90d00f91d4f1","version":0,"lastUpdated":1582731574704}}
