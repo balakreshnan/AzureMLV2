@@ -26,3 +26,68 @@ Steps to do
 - Image Tagging
 - ML Assit tagging
 
+Collect images
+Create a Blob Storage
+Create a container 
+Upload the images
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask1.jpg "Face mask")
+
+Create a Azure Machine learning Services - i choose WEST US 2 since GPU was available
+Create a Data Labeling project
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask1.jpg "Face mask")
+
+Create Data Set from Data Store
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask2.jpg "Face mask")
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask3.jpg "Face mask")
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask4.jpg "Face mask")
+
+Add Class or Label
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask5.jpg "Face mask")
+
+Labelling Instruction
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask6.jpg "Face mask")
+
+Create project
+
+Select ML Assit
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask7.jpg "Face mask")
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask8.jpg "Face mask")
+
+Image Tagging
+
+Select the project
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask9.jpg "Face mask")
+
+Click Data Label
+
+Start Labeling
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask10.jpg "Face mask")
+
+ML Assit tagging
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask11.jpg "Face mask")
+
+Tag all the images until the UI says it says there is no tasks
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask12.jpg "Face mask")
+
+Go back to Project Screen
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask13.jpg "Face mask")
+
+Click Details
+
+![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask14.jpg "Face mask")
+
+Wait until remaining is all completed. 
+
+In our say if you had 1000 images you need to tag 100 and then it takes time to do ML assisted tagging.
