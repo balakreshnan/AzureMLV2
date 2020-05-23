@@ -26,15 +26,15 @@ Steps to do
 - Image Tagging
 - ML Assit tagging
 
-Collect images
-Create a Blob Storage
+Collect images 
+Create a Blob Storage 
 Create a container 
-Upload the images
+Upload the images 
 
 ![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask1.jpg "Face mask")
 
-Create a Azure Machine learning Services - i choose WEST US 2 since GPU was available
-Create a Data Labeling project
+Create a Azure Machine learning Services - i choose WEST US 2 since GPU was available 
+Create a Data Labeling project 
 
 ![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask1.jpg "Face mask")
 
