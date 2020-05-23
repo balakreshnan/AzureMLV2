@@ -26,10 +26,10 @@ Steps to do
 - Image Tagging
 - ML Assit tagging
 
-Collect images 
-Create a Blob Storage 
-Create a container 
-Upload the images 
+Collect images </br>
+Create a Blob Storage </br> 
+Create a container </br>
+Upload the images </br>
 
 ![alt text](https://github.com/balakreshnan/AzureMLV2/blob/master/images/facemask1.jpg "Face mask")
 
